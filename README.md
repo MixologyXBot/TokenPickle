@@ -32,7 +32,7 @@ cd /sdcard
 Run the following to clone the `TokenPickle` repository:
 
 ```bash
-git clone https://github.com/rjriajul/TokenPickle
+git clone https://github.com/MixologyXBot/TokenPickle
 cd TokenPickle
 ```
 
@@ -64,8 +64,3 @@ cp token.pickle /sdcard
 
 ## Done! 🎉  
 You’ll find `token.pickle` in your phone’s internal storage.  
-
-
-## Credit
-
-[`SilentDemonSD`](https://github.com/SilentDemonSD)
